@@ -37,4 +37,4 @@ This project was created by Tanish Poddar as an assignment when he was in 10th s
 
 If you have any questions or feedback about the project, you can reach out to Tanish Poddar through his GitHub profile:
 
-[https://github.com/tanishpoddar](https://github.com/tanishpoddar)
+[https://github.com/tanisheesh](https://github.com/tanisheesh)
